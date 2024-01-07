@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(10, 10, 10) ;
+}
+.text1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.img1{
+    position: absolute;
+    margin-left: 210px;
+    margin-top: 80px;
+
+}
+.text2{
+    position: absolute;
+    margin-top:210px ;
+    margin-left: 205px;
+    font-size: 20px;
+    color: white;
+}
+.img2{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 460px;
+}
+.text3{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    margin-top: 210px;
+    margin-left: 493px;
+}
+.img3{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 720px;
+}
+.text4{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    margin-top: 210px;
+    margin-left: 747px;
+}
+.img4{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 970px;
+}
+.text5{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    margin-top: 210px;
+    margin-left: 980px;
+}
+.img5{
+    position: absolute;
+    margin-left: 215px;
+    margin-top: 280px;
+}
+.text6{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    margin-top: 450px;
+    margin-left: 235px;
+}
+.img6{
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 260px;
+}
+.text7{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    margin-top: 450px;
+    margin-left: 495px;
+}
